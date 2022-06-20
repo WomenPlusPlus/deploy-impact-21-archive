@@ -1,0 +1,15 @@
+{
+  "welcome": [
+    "Welcome",
+    "to",
+    "Dots."
+  ],
+  "presentation": "We use smart technology to connect people in need to the right organisations",
+  "title": "How can we help?",
+  "listOrganisationButton": "View all organisations",
+  "quizButton": "Use our search assistant",
+  "privacyPolicy": [
+    "We promise to respect your privacy.",
+    "Find out more."
+  ]
+}

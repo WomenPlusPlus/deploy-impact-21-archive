@@ -1,0 +1,128 @@
+{
+  "submitButton": "Suivant >",
+  "submitButtonLast": "Envoyer",
+  "skipButton": "Passer >",
+  "backButton": "< Retour",
+  "privacyPolicy": [
+    "Nous nous engageons à respecter votre vie privée.",
+    "En savoir plus."
+  ],
+  "start": "Début",
+  "userAge": "Age",
+  "userGender": "Sexe",
+  "userRegion": "Region",
+  "userCategories": "SDGs.",
+  "userSubCategories": "Sous-Cat.",
+  "end": "Fin",
+  "user": {
+    "question": "Pour qui cherchez-vous de l'aide?",
+    "filters": {
+      "me": "Moi",
+      "other": "Quelqu'un d'Autre"
+    }
+  },
+  "gender": {
+    "question": "Quel est votre sexe?",
+    "filters": {
+      "male": "Homme",
+      "female": "Femme",
+      "other": "Autre"
+    }
+  },
+  "age": {
+    "question": "Quel est votre groupe d'âge?",
+    "filters": {
+      "baby": "Bébé (0-3)",
+      "child": "Enfant (4-12)",
+      "teen": "Adolescent (13-17)",
+      "youngAdult": "Jeune Adult (18-25)",
+      "adult": "Adulte (18+)"
+    }
+  },
+  "region": {
+    "question": "Dans quelles régions cherchez-vous de l'aide?",
+    "filters": {
+      "dakar": "Dakar",
+      "saintLouis": "Saint-Louis",
+      "louga": "Louga",
+      "thies": "Thiès",
+      "diourbel": "Diourbel",
+      "matam": "Matam",
+      "fatick": "Fatick",
+      "kaolack": "Kaolack",
+      "kaffrine": "Kaffrine",
+      "tambacounda": "Tambacounda",
+      "kedougou": "Kédougou",
+      "kolda": "Kolda",
+      "sedhiou": "Sédhiou",
+      "ziguinchor": "Ziguinchor"
+    }
+  },
+  "dots_categories": {
+    "question": "Quels sujets vous intéresse?",
+    "filters": {
+      "socialProtection": "Protection social",
+      "food": "Nourriture et agriculture",
+      "wellBeing": "Santé et bien-être",
+      "education": "Éducation",
+      "genderEquality": "Égalité des genres",
+      "cleanWater": "Eau potable",
+      "energy": "Consommation d'énergie",
+      "workAndEntrepreneurship": "Travail et entrepreneuriat",
+      "informationTechnology": "Informatique",
+      "equalOpportunities": "Égalité des chances",
+      "housing": "Logement",
+      "sustainableLifestyles": "Modes de vie durable",
+      "climateAction": "Action climatique",
+      "fishing": "Pêche",
+      "biodiversity": "Biodiversité",
+      "justiceAndLegal": "Justice et juridique",
+      "partnerships": "Partneriats"
+    }
+  },
+  "dots_subCategories": {
+    "question": "Quels types d'aide recherchez-vous?",
+    "filters": {
+      "housingAndSocialServices": "Accès au logement et aux services sociaux",
+      "economicResources": "Accès aux ressources économiques et aux technologies de l'information",
+      "financialServices": "Accès aux services financiers et à la microfinance",
+      "protectionClimatEvents": "Initiatives pour se protéger des événements climatiques",
+      "alleviatePoverty": "Programmes de lutte contre la pauvreté",
+      "nutritiousFood": "Accès à des aliments nutritifs",
+      "agriculturalLand": "Accès aux terres agricoles et autres ressources de production",
+      "smallScaleFarmers": "Accès aux services pour les petits agriculteurs afin d'augmenter la productivité et les revenus",
+      "resilientAgriculturalPractices": "Mettre en œuvre des pratiques agricoles résilientes et augmenter la productivité",
+      "adaptFarmingPractices": "Adapter les pratiques agricoles au changement climatique et aux catastrophes environnementales",
+      "LandAndSoilQuality": "Améliorer la qualité des terres et des sols",
+      "farmingResources": "Accès aux banques de semences et de plantes et à d'autres ressources pour l'agriculture",
+      "ruralInfrastructureResources": "Ressources pour les infrastructures rurales, la recherche agricole et la technologie",
+      "healthPrevention": "Programmes de prévention santé",
+      "diseasePrevention": "Prévention et traitement des maladies",
+      "mentalHealth": "Accès aux services de santé mentale",
+      "drugAbuse": "Prévention et traitement de la toxicomanie",
+      "accessToHealthcare": "Accès aux services de santé, aux médicaments et aux vaccins",
+      "primaryAndSecondaryEducation": "Accès à l'enseignement primaire et secondaire",
+      "prePrimaryEducation": "Accès à l'enseignement pré-primaire",
+      "accessHigherEducation": "Accès à un enseignement technique, professionnel et supérieur abordable",
+      "skillsForEmployment": "Développer des compétences pertinentes pour l'emploi et l'entrepreneuriat",
+      "sustainableDevelopementEducation": "Éducation au développement durable et au mode de vie",
+      "humanRightsEducation": "Éducation aux droits de l'homme",
+      "genderEqualityEducation": "Éducation à l'égalité des genres",
+      "endWomenDiscrimination": "Programmes pour mettre fin à la discrimination à l'égard des femmes",
+      "endViolenceWomen": "Programmes pour mettre fin à la violence et à l'exploitation à l'égard des femmes",
+      "empowerWomen": "Programmes d'autonomisation des femmes grâce à la technologie",
+      "legislationForGenderEquality": "Adopter et renforcer les politiques et la législation pour l'égalité des sexes",
+      "economicProductivity": "Augmenter la productivité économique grâce aux innovations technologiques",
+      "employment": "Accès à l'emploi",
+      "youthEmployment": "Accès à l'emploi, à l'éducation et à la formation des jeunes",
+      "financialInstitutions": "Renforcer les capacités des institutions financières",
+      "endingDiscriminationLaws": "Inciter à mettre fin aux lois et politiques sur la discrimination",
+      "migration": "Assurer une migration sûre, ordonnée et régulière vers le pays",
+      "developmentPlanning": "Renforcer la planification du développement national et régional",
+      "effectivePartnership": "Programmes de partenariat efficaces",
+      "justiceAndLegalAid": "Accès à la justice et aide juridictionnelle",
+      "legalIdentity": "Accès à l'identité légale et à l'enregistrement",
+      "humanRightsProtection": "Accès à l'information et protection des droits de l'homme"
+    }
+  }
+}
